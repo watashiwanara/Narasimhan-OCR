@@ -1,1 +1,1 @@
-# Optical-Character-Recognition-Handwritten-Characters-
+# Optical-Character-Recognition
